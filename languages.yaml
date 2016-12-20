@@ -133,6 +133,33 @@ it:
     SUMMARY: "Questo è il riassunto di quanto ci hai scritto:"
   ERROR: Errore
 
+gl:
+  TRANSLATION_TEST: Antimatter!
+  BLOG:
+    ITEM:
+      CONTINUE_READING: Seguir lendo...
+      NEXT_POST: Seguinte Artigo
+      PREV_POST: Artigo Anterior
+  SIDEBAR:
+    SIMPLE_SEARCH:
+      HEADLINE: Buscar
+    RELATED_POSTS:
+      HEADLINE: Artigos Relacionados
+    RANDOM_ARTICLE:
+      HEADLINE: Artigo ao chou
+      FEELING_LUCKY: Vou ter sorte!
+    SOME_TEXT_WIDGET:
+      HEADLINE: Algúns Widget de Texto
+    POPULAR_TAGS:
+      HEADLINE: Etiquetas Populares
+    ARCHIVES:
+      HEADLINE: Arquivos
+    SYNDICATE:
+      HEADLINE: Distribuír
+  FORM_DATA:
+    SUMMARY: "Este é un resumo do escrito:"
+  ERROR: Erro
+
 ro:  
   BLOG:
    ITEM:
